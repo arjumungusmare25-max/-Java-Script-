@@ -28,3 +28,14 @@ if ( a > b ){
 } else {
   console.log ("smaller")
 } 
+
+const a= 7
+const b= 7
+const c= 3
+if (b > a){
+    console.log("largest")
+} else if (b > c){
+    console.log ("largest")
+} else {
+    console.log("smaller")
+}
