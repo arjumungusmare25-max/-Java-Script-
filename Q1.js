@@ -26,3 +26,6 @@
 // Sample Output 3:
 // 7
 
+const integer = 4;
+
+if(interger % )
