@@ -43,7 +43,7 @@ const num= 0
     console.log("posivite")
   } else if (num < 0) {
     console.log("nevative")
-  } if {
+  } else {
     console.log("zero")
   }
 
