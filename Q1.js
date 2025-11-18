@@ -1,31 +1,49 @@
-// Problem Statement:
-// Write a program that takes an integer as input and checks:
-// If the number is divisible by both 3 and 5, print "FizzBuzz"
-// If it is divisible only by 3, print "Fizz"
-// If it is divisible only by 5, print "Buzz"
-// If it is divisible by neither, print the number itself
+//Problem Statement:
+//Write a program that takes an integer as input and prints whether it is "Positive", "Negative", or "Zero".
 
-// Constraints:
-// Do not use any inbuilt functions, methods, or external libraries.
+//Constraints:
+//Do not use any inbuilt functions, methods, or external libraries.
 
-// Sample Input 1:
-// 15
+//Sample Input 1:
+//15
 
-// Sample Output 1:
-// FizzBuzz
+//Sample Output 1:
+//Positive
 
-// Sample Input 2:
-// 9
+//Sample Input 2:
+//-3
 
-// Sample Output 2:
-// Fizz
+//Sample Output 2:
+//Negative
 
-// Sample Input 3:
-// 7
+//Sample Input 3:
+//0
 
-// Sample Output 3:
-// 7
+//Sample Output 3:
+//Zero
+const num= 15 
+if (num > 0) {
+  console.log("positive")
+} else if (num < 0) {
+  console.log (" nevative")
+} else {
+  console.log ("zero")
+}
 
-const integer = 4;
+const num= -3 
+if (num > 0) {
+  console.log("positive")
+} else if (num < 0) {
+  console.log ("nevative")
+} else {
+  console.log("zero")
 
-if(interger % )
+const num= 0 
+  if (num > 0 ){
+    console.log("posivite")
+  } else if (num < 0) {
+    console.log("nevative")
+  } if {
+    console.log("zero")
+  }
+
